@@ -1,0 +1,45 @@
+.input_group {
+    @apply flex border rounded-xl;
+    background-color: white;
+    position: relative;
+}
+
+.input_text {
+    @apply w-full py-4 px-6 border rounded-xl bg-white;
+    @apply focus:outline-none border-none text-black;
+
+}
+
+.input_select {
+    @apply w-full py-4 px-6 border rounded-xl bg-white;
+    @apply focus:outline-none border-none text-gray-400;
+}
+
+.button {
+    @apply w-full bg-gradient-to-r from-pink-500 to-pink-400 rounded-md;
+    @apply py-3 text-gray-50 text-lg;
+}
+
+.button:hover {
+    @apply bg-gradient-to-r from-gray-50 to-gray-100 border-blue-500;
+    @apply text-gray-700 border;
+}
+
+.button_custom {
+    @apply w-full border py-3 flex justify-center gap-2 hover:bg-gray-200;
+}
+
+.fields {
+    margin: 50px 0px;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border-width: 5px;
+    border-color: pink;
+    border-style: outset;
+
+}

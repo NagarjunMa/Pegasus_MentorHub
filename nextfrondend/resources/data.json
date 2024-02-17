@@ -1,0 +1,47 @@
+[
+    {
+        "img": "/images/Dp.png",
+        "title": "Nagarjun Mallesh",
+        "text": "Expertise in Photography"
+    },
+    {
+        "img": "/images/Dp.png",
+        "title": "Manoj Chandrasekaran",
+        "text": "Expertise in Java Programming"
+    },
+    {
+        "img": "/images/Dp.png",
+        "title": "Arjun Raja Yogidas",
+        "text": " Expertise in Full Stack Development"
+    },
+    {
+        "img": "/images/Dp.png",
+        "title": "Apoorva Kulkarni",
+        "text": "Expertise in React Developer"
+    },
+    {
+        "img": "/images/Dp.png",
+        "title": "ShriKrishna Joisa",
+        "text": "Experitse in Cloud Computing"
+    },
+    {
+        "img": "/images/Dp.png",
+        "title": "Sanjay Kashyap",
+        "text": "Expertise in Data Science"
+    },
+    {
+        "img": "/images/Dp.png",
+        "title": "Nextjs crash course",
+        "text": "Expertise in Database"
+    },
+    {
+        "img": "/images/Dp.png",
+        "title": "Create a website using Tailwind CSS",
+        "text": "Expertise in Software Testing"
+    },
+    {
+        "img": "/images/Dp.png",
+        "title": "Create an one page website using ReactJS",
+        "text": "Expertise in Artificial Intelligence"
+    }
+]
